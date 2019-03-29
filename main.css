@@ -1,0 +1,27 @@
+#studentInfo{
+	text-align:center;
+	position:relative;
+	padding-right:35px;
+	color:white;
+	
+}
+#header{
+
+	text-align:center;
+}
+#image{
+	height: 20%;
+	width: 20%;
+}
+#pageHeader{
+	align:center;
+}
+body{
+	background-image: url("images/CampusJuly14_54.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.newclass{
+	color:black;
+	font-size:15pt;
+}
